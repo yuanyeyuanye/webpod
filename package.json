@@ -1,6 +1,6 @@
 {
   "name": "@yuanyeyuanye/webpod",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -22,8 +22,7 @@
     "inquirer": "^9.2.22",
     "minimist": "^1.2.8",
     "node-fetch-native": "^1.6.4",
-    "open": "^9.1.0",
-    "ts-node": "^10.9.2"
+    "open": "^9.1.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
